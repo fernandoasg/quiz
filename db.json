@@ -4,25 +4,123 @@
   "description": "Teste os seus conhecimentos sobre Design Patterns e comece a usá-los, além do Singleton",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual das alternativas a seguir é a lista correta de classificações de padrões de projeto?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+         "Criacionais, Estruturais e Comportamentais",
+         "Executivos, Estruturais e Comportamentais",
+         "Criacionais, Estruturais e Caracteristicos",
+         "Nenhuma das opções anteriores"
       ]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "title": "Que tipo de padrões de projeto dizem respeito à composição de classes e objetos?",
+      "description": "Pelo enunciado da para matar",
+      "answer": 1,
+      "alternatives": [
+         "Padrões de Projeto Criacionais",
+         "Padrões de Projeto Estruturais",
+         "Padrões de Projeto Comportamentais",
+         "Padrões de Projeto J2EE"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual dos seguintes padrões oculta as complexidades do sistema e fornece uma interface para o cliente, por meio da qual o cliente pode acessar o sistema?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "Composite",
+         "Facade",
+         "Flyweight",
+         "Decorator"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Bridge (ponte), Decorator (decorador), Façade (fachada), Proxy (procurador) e Flyweight (peso-mosca) são exemplos de Padrões de Projeto?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "Criacionais",
+         "Comportamentais",
+         "Estruturais",
+         "De persistência"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Qual dos seguintes padrões é usado quando precisamos desacoplar uma abstração de sua implementação para que as duas possam variar independentemente?",
+      "description": "Essa é pra aquecer",
+      "answer": 0,
+      "alternatives": [
+        "Bridge",
+        "Adapter",
+        "Prototype",
+        "Filter"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Os padrões de projeto de software são classificados de acordo com a funcionalidade. Assim, eles podem ser de criação, estrutural e comportamental. Assinale a alternativa que contém um exemplo de padrão de cada tipo.",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+         "Adapter, Bridge e Composite",
+         "Factory Method, Prototype e Interpreter",
+         "Prototype, Singleton e Adapter",
+         "Builder, Bridge e Observer"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual dos seguintes padrões é usado para reduzir a complexidade da comunicação entre vários objetos ou classes?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "Iterator",
+         "Mediator",
+         "Memento",
+         "Observer"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Em qual dos seguintes padrões, o comportamento de uma classe muda com base em seu estado?",
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "State",
+         "Null Object",
+         "Strategy",
+         "Template"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual das opções a seguir é considerada um antipadrão?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "Factory",
+         "Strategy",
+         "Singleton",
+         "Prototype"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Qual dos seguintes padrões é usado quando há relacionamento um-para-muitos entre objetos, e quando um objeto for modificado, seus objetos dependentes serão notificados automaticamente?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+         "Iterator",
+         "Mediator",
+         "Memento",
+         "Observer"
       ]
     }
   ],
