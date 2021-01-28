@@ -4,9 +4,9 @@
   "description": "Teste os seus conhecimentos sobre Design Patterns e comece a usá-los, além do Singleton",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/KVZWZQoS0yqfIiTAKq/giphy.gif",
       "title": "Qual das alternativas a seguir é a lista correta de classificações de padrões de projeto?",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 0,
       "alternatives": [
          "Criacionais, Estruturais e Comportamentais",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/NTNW5ziETzv3dfIz70/giphy.gif",
       "title": "Que tipo de padrões de projeto dizem respeito à composição de classes e objetos?",
       "description": "Pelo enunciado da para matar",
       "answer": 1,
@@ -28,9 +28,9 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/xTiTnwz8prAIBCrVhm/giphy.gif",
       "title": "Qual dos seguintes padrões oculta as complexidades do sistema e fornece uma interface para o cliente, por meio da qual o cliente pode acessar o sistema?",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 1,
       "alternatives": [
          "Composite",
@@ -40,9 +40,9 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/Tl25hw4bD37AQ/giphy.gif",
       "title": "Bridge (ponte), Decorator (decorador), Façade (fachada), Proxy (procurador) e Flyweight (peso-mosca) são exemplos de Padrões de Projeto?",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 2,
       "alternatives": [
          "Criacionais",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "image": "https://media.giphy.com/media/P8XNUbh3Wuwa4/giphy.gif",
       "title": "Qual dos seguintes padrões é usado quando precisamos desacoplar uma abstração de sua implementação para que as duas possam variar independentemente?",
       "description": "Essa é pra aquecer",
       "answer": 0,
@@ -64,9 +64,9 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/3NeSk2IVEd2FYUQEcM/giphy.gif",
       "title": "Os padrões de projeto de software são classificados de acordo com a funcionalidade. Assim, eles podem ser de criação, estrutural e comportamental. Assinale a alternativa que contém um exemplo de padrão de cada tipo.",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 3,
       "alternatives": [
          "Adapter, Bridge e Composite",
@@ -76,9 +76,9 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/l0IycA0bMvCR118Lm/giphy.gif",
       "title": "Qual dos seguintes padrões é usado para reduzir a complexidade da comunicação entre vários objetos ou classes?",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 1,
       "alternatives": [
          "Iterator",
@@ -88,9 +88,9 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/IIV8h7iMDr3P2/giphy.gif",
       "title": "Em qual dos seguintes padrões, o comportamento de uma classe muda com base em seu estado?",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 0,
       "alternatives": [
          "State",
@@ -100,9 +100,9 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/7eicfcGQy0Jr4nk0Y7/giphy.gif",
       "title": "Qual das opções a seguir é considerada um antipadrão?",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 2,
       "alternatives": [
          "Factory",
@@ -112,9 +112,9 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/fbBDhlw5pPAYg/giphy.gif",
       "title": "Qual dos seguintes padrões é usado quando há relacionamento um-para-muitos entre objetos, e quando um objeto for modificado, seus objetos dependentes serão notificados automaticamente?",
-      "description": "Faz tempo em haha",
+      "description": "",
       "answer": 3,
       "alternatives": [
          "Iterator",
