@@ -18,7 +18,7 @@
     {
       "image": "https://media.giphy.com/media/NTNW5ziETzv3dfIz70/giphy.gif",
       "title": "Que tipo de padrões de projeto dizem respeito à composição de classes e objetos?",
-      "description": "Pelo enunciado da para matar",
+      "description": "",
       "answer": 1,
       "alternatives": [
          "Padrões de Projeto Criacionais",
@@ -54,7 +54,7 @@
     {
       "image": "https://media.giphy.com/media/P8XNUbh3Wuwa4/giphy.gif",
       "title": "Qual dos seguintes padrões é usado quando precisamos desacoplar uma abstração de sua implementação para que as duas possam variar independentemente?",
-      "description": "Essa é pra aquecer",
+      "description": "",
       "answer": 0,
       "alternatives": [
         "Bridge",
@@ -125,7 +125,7 @@
     }
   ],
   "external": [
-    ""
+    "https://naruto-quiz.llofyy.vercel.app/"
   ],
   "theme": {
     "colors": {
