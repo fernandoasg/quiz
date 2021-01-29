@@ -125,7 +125,9 @@
     }
   ],
   "external": [
-    "https://naruto-quiz.llofyy.vercel.app/"
+    "https://naruto-quiz.llofyy.vercel.app/",
+    "https://ai-quiz.idcesares.vercel.app/",
+    "https://brasilidadesquiz.mathtzt.vercel.app/"
   ],
   "theme": {
     "colors": {

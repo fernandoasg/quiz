@@ -29,9 +29,6 @@ export async function getServerSideProps(context) {
       console.error(err);
     });
 
-  console.log(dbExterno);
-  console.log('Infos que o Next da para nós', context.query.id);
-
   return {
     props: {
       dbExterno,
